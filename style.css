@@ -1,0 +1,16 @@
+body {
+    font-family: sans-serif;
+}
+a{
+    color: #071871	;
+}
+header{
+    background-color: #FFB600;
+}
+body{
+    background-color: #FFC840;
+}
+img{
+    border: 5px dashed #162EAE;
+    border-radius: 30px;
+}
